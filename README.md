@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![status](https://badge.stateful.com/IgnaHeck/dnd.svg)](DnD for @IgnaHeck)
+![status](https://badge.stateful.com/IgnaHeck/dnd.svg)
 
 <!--
 **IgnaHeck/IgnaHeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
